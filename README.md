@@ -1,2 +1,0 @@
-# PymaceuticalsInc
-Pandas in Medicine
